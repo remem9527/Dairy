@@ -1,6 +1,8 @@
 Diary: A permanent and private on-chain diary book, powered by BSV.
 =======================================================================
 
+As long as you control the private key, your on-chian diary book will never be lost or peeped by others.
+
 .. code-block:: python
 
     >>> from diary import User
